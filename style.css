@@ -1,0 +1,19 @@
+body {
+    background-color: #D4C99E;
+}
+h2{
+	color:#562E19;
+	text-align:center;
+	font-size: 60px;
+	font-family: garamond;
+	font-weight: bold;
+}
+p{
+	color:#000000;
+	font-size: 25px;
+	font-family: garamond;
+	font-weight: bold;
+}
+.required{
+      color:red;
+}
